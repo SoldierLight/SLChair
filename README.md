@@ -1,0 +1,2 @@
+# SLChair
+SLChair Plugin
